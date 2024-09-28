@@ -1,2 +1,2 @@
 # Single-Page-CV
-Create a single-page HTML CV to showcase your career history
+To visualize the web page just open the index.html archive
